@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Splash_blue">#303f9f</color>
+    <color name="LogoSplash">#FFE5B4</color>
+    <color name="button_sign">#24A178</color>
+    <color name="button_2">#673AB7</color>
+    <color name="grey">#808080</color>
+    <color name="WelcomeBlue">#74bedd</color>
+</resources>

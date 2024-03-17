@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162220685772",
+    "project_id": "rhimjhim-90bfe",
+    "storage_bucket": "rhimjhim-90bfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162220685772:android:18c67545bead355d868569",
+        "android_client_info": {
+          "package_name": "com.example.rhimjhim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA866m9996frYExFUYbez41ldRix3xEA88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
